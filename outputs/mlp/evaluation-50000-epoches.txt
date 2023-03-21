@@ -1,0 +1,12 @@
+entropy, accuracy for train data: 0.3240554928779602 0.8700000047683716
+entropy, accuracy for test data: [0.6795061826705933, 0.7433333396911621]
+
+entropy, accuracy for train data: 0.2438504844903946 0.903333306312561
+entropy, accuracy for test data: [0.646544873714447, 0.7933333516120911]
+
+entropy, accuracy for train data: 0.02706194296479225 0.9933333396911621
+entropy, accuracy for test data: [0.9455778002738953, 0.903333306312561]
+
+entropy, accuracy for train data: 0.018263142555952072 1.0
+entropy, accuracy for test data: [1.1124520301818848, 0.8866666555404663]
+
